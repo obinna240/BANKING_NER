@@ -1,0 +1,30 @@
+Total Results for "Brexit growth" = 1
+---------------------------------------------------------
+The phrase 'brexit growth' can be found in document 52
+Total Results for "Trump Growth" = 0
+---------------------------------------------------------
+Searching for occurences of 'brexit' and 'growth'...
+Total Occurrences for "Brexit Growth" = 18
+Documents containing 'brexit' and 'growth'52
+Documents containing 'brexit' and 'growth'35
+Documents containing 'brexit' and 'growth'20
+Documents containing 'brexit' and 'growth'31
+Documents containing 'brexit' and 'growth'33
+Documents containing 'brexit' and 'growth'59
+Documents containing 'brexit' and 'growth'43
+Documents containing 'brexit' and 'growth'44
+Documents containing 'brexit' and 'growth'14
+Documents containing 'brexit' and 'growth'34
+===========================================================
+
+Total Occurrences for "Trump" and "Growth" = 36
+Documents containing 'Trump' and 'growth'21
+Documents containing 'Trump' and 'growth'57
+Documents containing 'Trump' and 'growth'39
+Documents containing 'Trump' and 'growth'59
+Documents containing 'Trump' and 'growth'48
+Documents containing 'Trump' and 'growth'46
+Documents containing 'Trump' and 'growth'35
+Documents containing 'Trump' and 'growth'52
+Documents containing 'Trump' and 'growth'1
+Documents containing 'Trump' and 'growth'20
